@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DogHouse", "01.DogHouse\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.WorkHours", "02.WorkHours\02.WorkHours.csproj", "{40446237-EA4F-4E21-8C47-1B78FD989ED2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CarToGo", "03.CarToGo\03.CarToGo.csproj", "{D0D415F2-FCFD-459D-9FBD-36EC09DC8B54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{40446237-EA4F-4E21-8C47-1B78FD989ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40446237-EA4F-4E21-8C47-1B78FD989ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40446237-EA4F-4E21-8C47-1B78FD989ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D415F2-FCFD-459D-9FBD-36EC09DC8B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D415F2-FCFD-459D-9FBD-36EC09DC8B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D415F2-FCFD-459D-9FBD-36EC09DC8B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D415F2-FCFD-459D-9FBD-36EC09DC8B54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
