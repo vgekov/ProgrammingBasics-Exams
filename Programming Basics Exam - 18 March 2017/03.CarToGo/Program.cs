@@ -62,7 +62,7 @@ namespace _03.CarToGo
                 {
                     budget = budget * 0.90;
                     Console.WriteLine("Luxury class");
-                    Console.WriteLine("Cabrio - {0:f2}", budget);
+                    Console.WriteLine("Jeep - {0:f2}", budget);
                 }
                 else if (season == "Winter")
                 {
